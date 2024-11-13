@@ -8,7 +8,7 @@
 
 ## Usage
 ```
-git clone https://github.com/facundopires/NvimCustomConfig.git ~/.config/nvim && nvim
+git clone https://github.com/facundopires/NvimCustomConfig.git $ENV:USERPROFILE\AppData\Local\nvim && nvim
 ```
 
 
